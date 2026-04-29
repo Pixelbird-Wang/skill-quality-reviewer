@@ -29,7 +29,7 @@
 ## 目录结构
 
 ```text
-0427/
+skill-quality-reviewer/
 ├── README.md
 ├── SKILL.md
 ├── 示例评审报告.md
